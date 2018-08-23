@@ -16,7 +16,7 @@ Short course scheduling and postdoc teaching assignments | He
 Teaching training for PhDs | Levina
 Teaching training for postdocs | Gagnon-Bartsch, He
 Undergraduate recruitment, research, honors students | Ionides, Banerjee
-PhD recruitment iincluding civersity efforts | Stoev, Levina
+PhD recruitment iincluding diversity efforts | Stoev, Levina
 [MIDAS](https://midas.umich.edu) liaison | Zhu
 [MSSISS](https://sites.lsa.umich.edu/mssiss/) liaison | Ionides
 Computing resources | Tewari, Ionides
