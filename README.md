@@ -28,5 +28,5 @@ Assessment and data collection | Levina, Zhu with support from staff
 ### Trainees
 
 - Jack Goetz
+- Tim Lycurgus
 - Laura Niss
-- more to come...
