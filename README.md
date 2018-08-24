@@ -27,6 +27,12 @@ Assessment and data collection | Levina, Zhu with support from staff
 
 ### Trainees
 
+## Graduate Students
+
 - Jack Goetz
 - Tim Lycurgus
 - Laura Niss
+
+## Undergraduate Students
+
+- Daniel Zhang
