@@ -18,24 +18,24 @@ This project brings together three interlinked research streams: (1) statistical
 
 ## Trainees
 
-Faculty advisor information can be found below in parentheses next to the trainee names.
+Faculty advisors are mentioned (in parentheses) next to the trainee names.
 
 ### Postdoctoral Scholars
 
-- Keith Levin (Levina)
-- Asad Lodhia (Levina)
+- [Keith Levin](http://www-personal.umich.edu/~klevin/) (Levina)
+- [Asad Lodhia](https://lsa.umich.edu/stats/people/postdoctoral-fellows/AsadLodhia.html) (Levina)
 
 ### Graduate Students
 
-- Robyn Ferg (Gagnon-Bartsch)
-- Jonathan (Jack) Goetz (Tewari)
-- Greg Hunt (Gagnon-Bartsch)
-- Dan Kessler (Levina)
-- Zhiyuan (Julian) Lu (Banerjee)
-- Tim Lycurgus (Hansen)
-- Jarvis Miller (Ionides)
-- Laura Niss (Tewari)
-- Zoe Rehnberg (Gagnon-Bartsch)
+- [Robyn Ferg](https://lsa.umich.edu/stats/people/phd-students/fergr.html) (Gagnon-Bartsch)
+- [Jonathan (Jack) Goetz](https://lsa.umich.edu/stats/people/phd-students/jonathan-goetz.html) (Tewari)
+- [Greg Hunt](http://www.ghunt.info/) (Gagnon-Bartsch)
+- [Dan Kessler](http://www.dankessler.me/) (Levina)
+- [Zhiyuan (Julian) Lu](https://lsa.umich.edu/stats/people/phd-students/jlnlu.html) (Banerjee)
+- [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
+- [Jarvis Miller](https://lsa.umich.edu/stats/people/phd-students/JarvisMiller.html) (Ionides)
+- [Laura Niss](http://lauraniss.com/) (Tewari)
+- [Zoe Rehnberg](https://lsa.umich.edu/stats/people/phd-students/ZoeRehnberg.html) (Gagnon-Bartsch)
 - James (Ed) Wu (Gagnon-Bartsch)
 - Drew Yarger (Stoev)
 
