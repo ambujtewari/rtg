@@ -6,24 +6,15 @@ This project brings together three interlinked research streams: (1) statistical
 
 ## Faculty Investigators
 
-Task | Faculty
------|-----
-Overall Management | Levina
-Mentoring and professional development for PhDs | Levina (+ 1 rotating PI)
-Mentoring and professional development for postdocs | He (+ 1 rotating PI)
-Mentoring and professional development for undergrads | Ionides (+ 1 rotating PI)
-Short course scheduling and postdoc teaching assignments | He
-Teaching training for PhDs | Levina
-Teaching training for postdocs | Gagnon-Bartsch, He
-Undergraduate recruitment, research, honors students | Ionides, Banerjee
-PhD recruitment iincluding diversity efforts | Stoev, Levina
-[MIDAS](https://midas.umich.edu) liaison | Zhu
-[MSSISS](https://sites.lsa.umich.edu/mssiss/) liaison | Ionides
-Computing resources | Tewari, Ionides
-Website and dissemination | Stoev, Tewari
-Social sciences datasets | Hansen, Gagnon-Bartsch
-Assessment and data collection | Levina, Zhu with support from staff
-
+- [Liza Levina](http://dept.stat.lsa.umich.edu/~elevina/) (PI)
+- [Xuming He](http://www.xuminghe.com/) (co-PI)
+- [Edward Ionides](http://dept.stat.lsa.umich.edu/~ionides/) (co-PI)
+- [Moulinath Banerjee](http://dept.stat.lsa.umich.edu/~moulib/)
+- [Johann Gagnon-Bartsch](http://dept.stat.lsa.umich.edu/~johanngb/)
+- [Ben Hansen](http://dept.stat.lsa.umich.edu/~bbh/)
+- [Stilian Stoev](http://dept.stat.lsa.umich.edu/~sstoev/)
+- [Ambuj Tewari](https://ambujtewari.github.io/)
+- [Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/)
 
 ## Trainees
 
