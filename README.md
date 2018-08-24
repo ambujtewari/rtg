@@ -18,12 +18,37 @@ This project brings together three interlinked research streams: (1) statistical
 
 ## Trainees
 
+Faculty advisor information can be found below in parentheses next to the trainee names.
+
+### Postdoctoral Scholars
+
+- Keith Levin (Levina)
+- Asad Lodhia (Levina)
+
 ### Graduate Students
 
-- Jack Goetz
-- Tim Lycurgus
-- Laura Niss
+- Robyn Ferg (Gagnon-Bartsch)
+- Jonathan (Jack) Goetz (Tewari)
+- Greg Hunt (Gagnon-Bartsch)
+- Dan Kessler (Levina)
+- Zhiyuan (Julian) Lu (Banerjee)
+- Tim Lycurgus (Hansen)
+- Jarvis Miller (Ionides)
+- Laura Niss (Tewari)
+- Zoe Rehnberg (Gagnon-Bartsch)
+- James (Ed) Wu (Gagnon-Bartsch)
+- Drew Yarger (Stoev)
 
 ### Undergraduate Students
 
-- Daniel Zhang
+- David Geering (Banerjee)
+- John Nowland (Stoev)
+- Evan Pesch (Stoev)
+- Adam Rauh (Hansen)
+- Daniel Zhang (Tewari)
+
+## Related Links
+
+- [Statistics Graduate Student Seminar](https://sites.google.com/a/umich.edu/statss/)
+- [Michigan Student Symposium for Interdisciplinary Statistical Sciences](https://sites.lsa.umich.edu/mssiss/)
+- [Michigan Institute for Data Science](https://midas.umich.edu/)
