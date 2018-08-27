@@ -30,6 +30,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Robyn Ferg](https://lsa.umich.edu/stats/people/phd-students/fergr.html) (Gagnon-Bartsch)
 - [Jonathan (Jack) Goetz](https://lsa.umich.edu/stats/people/phd-students/jonathan-goetz.html) (Tewari)
 - [Greg Hunt](http://www.ghunt.info/) (Gagnon-Bartsch)
+  - [More info](hunt.md)
 - [Dan Kessler](http://www.dankessler.me/) (Levina)
 - [Zhiyuan (Julian) Lu](https://lsa.umich.edu/stats/people/phd-students/jlnlu.html) (Banerjee)
 - [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
