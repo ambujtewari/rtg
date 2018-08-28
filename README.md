@@ -23,6 +23,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 ### Postdoctoral Scholars
 
 - [Keith Levin](http://www-personal.umich.edu/~klevin/) (Levina)
+  - [More info](levin.md)
 - [Asad Lodhia](https://lsa.umich.edu/stats/people/postdoctoral-fellows/AsadLodhia.html) (Levina)
 
 ### Graduate Students
