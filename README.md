@@ -45,7 +45,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - John Nowland (Stoev)
 - Evan Pesch (Stoev)
 - Adam Rauh (Hansen)
-- Daniel Zhang (Tewari)
+- Daniel Zhang (Tewari) &#124; [More info](zhang.md)
 
 ## Related Links
 
