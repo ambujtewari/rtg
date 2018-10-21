@@ -1,5 +1,7 @@
 ## Daniel Zhang
 
+![Daniel Zhang](zhang.jpg)
+
 Daniel's research focuses on **boosting**, an algorithmic technique that combines weaker machine
 learning predictors to create a single, stronger predictor. Boosting algorithms are some
 of the most widely used algorithms in machine learning due to their empirical effectiveness
