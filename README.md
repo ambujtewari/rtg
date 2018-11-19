@@ -13,7 +13,7 @@ This project brings together three interlinked research streams: (1) statistical
 - [Johann Gagnon-Bartsch](http://dept.stat.lsa.umich.edu/~johanngb/)
 - [Ben Hansen](http://dept.stat.lsa.umich.edu/~bbh/)
 - [Stilian Stoev](http://dept.stat.lsa.umich.edu/~sstoev/)
-- [Ambuj Tewari](https://ambujtewari.github.io/)
+- [Ambuj Tewari](https://ambujtewari.github.io/) (co-PI)
 - [Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/)
 
 ## Trainees
