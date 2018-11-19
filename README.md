@@ -9,11 +9,11 @@ This project brings together three interlinked research streams: (1) statistical
 - [Liza Levina](http://dept.stat.lsa.umich.edu/~elevina/) (PI)
 - [Xuming He](http://www.xuminghe.com/) (co-PI)
 - [Edward Ionides](http://dept.stat.lsa.umich.edu/~ionides/) (co-PI)
+- [Ambuj Tewari](https://ambujtewari.github.io/) (co-PI)
 - [Moulinath Banerjee](http://dept.stat.lsa.umich.edu/~moulib/)
 - [Johann Gagnon-Bartsch](http://dept.stat.lsa.umich.edu/~johanngb/)
 - [Ben Hansen](http://dept.stat.lsa.umich.edu/~bbh/)
 - [Stilian Stoev](http://dept.stat.lsa.umich.edu/~sstoev/)
-- [Ambuj Tewari](https://ambujtewari.github.io/) (co-PI)
 - [Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/)
 
 ## Trainees
