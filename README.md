@@ -52,6 +52,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - William Klinenberg (Levina)
 - John Nowland (Stoev)
 - Evan Pesch (Stoev)
+- Abraham Rycus (Hansen)
 
 ## Alumni
 
