@@ -41,7 +41,6 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Caleb Ki](https://lsa.umich.edu/stats/people/phd-students/CalebKi.html) (Ionides)
 - [Zhiyuan (Julian) Lu](https://lsa.umich.edu/stats/people/phd-students/jlnlu.html) (Banerjee)
 - [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
-
 - [Laura Niss](http://lauraniss.com/) (Tewari) &#124; [More info](niss.md)
 - [Zoe Rehnberg](https://lsa.umich.edu/stats/people/phd-students/ZoeRehnberg.html) (Gagnon-Bartsch) &#124; [More info](rehnberg.md)
 - [James (Ed) Wu](https://lsa.umich.edu/stats/people/phd-students/james-wu.html) (Gagnon-Bartsch)
