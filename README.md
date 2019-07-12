@@ -52,11 +52,11 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - William Klinenberg (Levina)
 - John Nowland (Stoev)
 - Evan Pesch (Stoev)
-- Adam Rauh (Hansen)
 
 ## Alumni
 
 - [Jarvis Miller](https://www.linkedin.com/in/jarvis-miller-79984a7a/) (Ionides) &#124; Next step: Data Scientist, BuzzFeed
+- [Adam Rauh](https://adamrauh.github.io/) (Hansen) &#124; Next step: Statistical computation specialist, MIT
 - Daniel Zhang (Tewari) &#124; [More info](zhang.md) &#124; Next step: Software Engineer, Facebook
 
 ## Related Links
