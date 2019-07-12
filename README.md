@@ -18,9 +18,9 @@ This project brings together three interlinked research streams: (1) statistical
 
 ## Trainee News
 
-- Trainee Daniel Zhang graduates and starts a new job at Facebook, July 2019
-- Trainee Jack Goetz starts a summer internship at Facebook, May 2019
-- Trainees Caleb Ki and Drew Yarger win prestigious NSF Graduate Research Fellowships, April 2019
+- Daniel Zhang graduates and starts a new job at Facebook, July 2019
+- Jack Goetz starts a summer internship at Facebook, May 2019
+- Caleb Ki and Drew Yarger win prestigious NSF Graduate Research Fellowships, April 2019
 
 ## Trainees
 
