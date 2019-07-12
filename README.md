@@ -16,12 +16,19 @@ This project brings together three interlinked research streams: (1) statistical
 - [Stilian Stoev](http://dept.stat.lsa.umich.edu/~sstoev/)
 - [Ji Zhu](http://dept.stat.lsa.umich.edu/~jizhu/)
 
+## Trainee News
+
+- Trainee Daniel Zhang graduates and starts a new job at Facebook, July 2019
+- Trainee Jack Goetz starts a summer internship at Facebook, May 2019
+- Trainees Caleb Ki and Drew Yarger win prestigious NSF Graduate Research Fellowships, April 2019
+
 ## Trainees
 
 Faculty advisors are mentioned (in parentheses) next to the trainee names.
 
 ### Postdoctoral Scholars
 
+- [Mark Fredrickson](https://lsa.umich.edu/stats/people/postdoctoral-fellows/mfredric.html) (Hansen)
 - [Keith Levin](http://www-personal.umich.edu/~klevin/) (Levina) &#124; [More info](levin.md)
 - [Asad Lodhia](https://lsa.umich.edu/stats/people/postdoctoral-fellows/AsadLodhia.html) (Levina)
 
@@ -31,6 +38,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Jonathan (Jack) Goetz](https://lsa.umich.edu/stats/people/phd-students/jonathan-goetz.html) (Tewari) &#124; [More info](goetz.md)
 - [Greg Hunt](http://www.ghunt.info/) (Gagnon-Bartsch) &#124; [More info](hunt.md)
 - [Dan Kessler](http://www.dankessler.me/) (Levina)
+- [Caleb Ki](https://lsa.umich.edu/stats/people/phd-students/CalebKi.html) (Ionides)
 - [Zhiyuan (Julian) Lu](https://lsa.umich.edu/stats/people/phd-students/jlnlu.html) (Banerjee)
 - [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
 - [Jarvis Miller](https://lsa.umich.edu/stats/people/phd-students/JarvisMiller.html) (Ionides)
@@ -42,10 +50,14 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 ### Undergraduate Students
 
 - David Geering (Banerjee)
+- William Klinenberg (Levina)
 - John Nowland (Stoev)
 - Evan Pesch (Stoev)
 - Adam Rauh (Hansen)
-- Daniel Zhang (Tewari) &#124; [More info](zhang.md)
+
+## Alumni
+
+- Daniel Zhang (Tewari) &#124; [More info](zhang.md). Next step: Software Engineer, Facebook
 
 ## Related Links
 
