@@ -57,7 +57,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 
 ## Alumni
 
-- Daniel Zhang (Tewari) &#124; [More info](zhang.md). Next step: Software Engineer, Facebook
+- Daniel Zhang (Tewari) &#124; [More info](zhang.md) &#124; Next step: Software Engineer, Facebook
 
 ## Related Links
 
