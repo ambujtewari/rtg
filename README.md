@@ -39,7 +39,6 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Greg Hunt](http://www.ghunt.info/) (Gagnon-Bartsch) &#124; [More info](hunt.md)
 - [Dan Kessler](http://www.dankessler.me/) (Levina)
 - [Caleb Ki](https://lsa.umich.edu/stats/people/phd-students/CalebKi.html) (Ionides)
-- [Zhiyuan (Julian) Lu](https://lsa.umich.edu/stats/people/phd-students/jlnlu.html) (Banerjee)
 - [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
 - [Laura Niss](http://lauraniss.com/) (Tewari) &#124; [More info](niss.md)
 - [Zoe Rehnberg](https://lsa.umich.edu/stats/people/phd-students/ZoeRehnberg.html) (Gagnon-Bartsch) &#124; [More info](rehnberg.md)
@@ -55,6 +54,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 
 ## Alumni
 
+- [Zhiyuan (Julian) Lu](https://www.linkedin.com/in/zhiyuan-lu-100806131/) (Banerjee) &#124; Next step: Researcher, National Center for Toxicological Research
 - [Jarvis Miller](https://www.linkedin.com/in/jarvis-miller-79984a7a/) (Ionides) &#124; Next step: Data Scientist, BuzzFeed
 - [Adam Rauh](https://adamrauh.github.io/) (Hansen) &#124; Next step: Statistical computation specialist, MIT
 - Daniel Zhang (Tewari) &#124; [More info](zhang.md) &#124; Next step: Software Engineer, Facebook
