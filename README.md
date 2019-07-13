@@ -20,6 +20,7 @@ This project brings together three interlinked research streams: (1) statistical
 
 - Daniel Zhang graduates and starts a new job at Facebook, July 2019
 - Jack Goetz starts a summer internship at Facebook, May 2019
+- Zhiyuan (Julian) Lu successfully defends his PhD thesis. He will be joining the National Center for Toxicological Research, May 2019
 - Caleb Ki and Drew Yarger win prestigious NSF Graduate Research Fellowships, April 2019
 
 ## Trainees
