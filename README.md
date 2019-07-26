@@ -43,7 +43,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
 - [Laura Niss](http://lauraniss.com/) (Tewari) &#124; [More info](niss.md)
 - [Zoe Rehnberg](https://lsa.umich.edu/stats/people/phd-students/ZoeRehnberg.html) (Gagnon-Bartsch) &#124; [More info](rehnberg.md)
-- [James (Ed) Wu](https://lsa.umich.edu/stats/people/phd-students/james-wu.html) (Gagnon-Bartsch)
+- [James (Ed) Wu](https://lsa.umich.edu/stats/people/phd-students/james-wu.html) (Gagnon-Bartsch) &#124; [More info](wu.md)
 - [Drew Yarger](https://lsa.umich.edu/stats/people/phd-students/AndrewYarger.html) (Stoev)
 
 ### Undergraduate Students
