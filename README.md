@@ -29,7 +29,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 
 ### Postdoctoral Scholars
 
-- [Mark Fredrickson](https://lsa.umich.edu/stats/people/postdoctoral-fellows/mfredric.html) (Hansen)
+- [Mark Fredrickson](https://lsa.umich.edu/stats/people/postdoctoral-fellows/mfredric.html) (Hansen) &#124; [More info](fredrickson.md)
 - [Keith Levin](http://www-personal.umich.edu/~klevin/) (Levina) &#124; [More info](levin.md)
 - [Asad Lodhia](https://lsa.umich.edu/stats/people/postdoctoral-fellows/alodhia.html) (Levina)
 
