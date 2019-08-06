@@ -40,7 +40,7 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Greg Hunt](http://www.ghunt.info/) (Gagnon-Bartsch) &#124; [More info](hunt.md)
 - [Dan Kessler](http://www.dankessler.me/) (Levina)
 - [Caleb Ki](https://lsa.umich.edu/stats/people/phd-students/CalebKi.html) (Ionides)
-- [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen)
+- [Tim Lycurgus](https://lsa.umich.edu/stats/people/phd-students/timothy-lycurgus.html) (Hansen) &#124; [More info](lycurgus.md)
 - [Laura Niss](http://lauraniss.com/) (Tewari) &#124; [More info](niss.md)
 - [Zoe Rehnberg](https://lsa.umich.edu/stats/people/phd-students/ZoeRehnberg.html) (Gagnon-Bartsch) &#124; [More info](rehnberg.md)
 - [James (Ed) Wu](https://lsa.umich.edu/stats/people/phd-students/james-wu.html) (Gagnon-Bartsch) &#124; [More info](wu.md)
