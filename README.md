@@ -65,3 +65,5 @@ Faculty advisors are mentioned (in parentheses) next to the trainee names.
 - [Statistics Graduate Student Seminar](https://sites.google.com/a/umich.edu/statss/)
 - [Michigan Student Symposium for Interdisciplinary Statistical Sciences](https://sites.lsa.umich.edu/mssiss/)
 - [Michigan Institute for Data Science](https://midas.umich.edu/)
+- [American Journal of Undergraduate Research (AJUR)](http://www.ajuronline.org/)
+- [SIAM Undergraduate Research Online (SIURO)](https://www.siam.org/publications/siuro)
